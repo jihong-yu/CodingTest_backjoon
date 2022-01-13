@@ -5,7 +5,7 @@ for _ in range(n):
     sum = 0
     c = 1
     for i in array:
-        if i =="O":
+        if i == "O":
             sum += c
             c += 1
         else:
